@@ -1,0 +1,7 @@
+export * from './domain-aggregate-root.decorator'
+export * from './domain-entity.decorator'
+export * from './domain-factory.decorator'
+export * from './domain-repository.decorator'
+export * from './domain-service.decorator'
+export * from './domain-specification.decorator'
+export * from './value-object.decorator'
